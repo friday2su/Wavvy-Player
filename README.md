@@ -1,10 +1,10 @@
-# Niro Player 🎬 [Under Development]
+# Wavvy Player 🎬 [Under Development]
 
 A modern, feature-rich video player built with Next.js, TypeScript, and HLS.js. This player provides a professional streaming experience with comprehensive controls and customizable options.
 
 ## 📸 Demo
 
-![Niro Player Demo](public/demo.png)
+![Wavvy Player Demo](public/demo.png)
 
 ## ✨ Features
 
@@ -49,8 +49,8 @@ A modern, feature-rich video player built with Next.js, TypeScript, and HLS.js. 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/friday2su/Niro-Player.git
-   cd Niro-Player
+    git clone https://github.com/friday2su/Wavvy-Player.git
+    cd Wavvy-Player
    ```
 
 2. **Install dependencies**
@@ -205,7 +205,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/friday2su/Niro-Player/issues) page
+1. Check the [Issues](https://github.com/friday2su/Wavvy-Player/issues) page
 2. Create a new issue with detailed information
 3. Provide browser console logs if applicable
 
