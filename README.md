@@ -1,10 +1,10 @@
-# Wavvy Player 🎬 [Under Development]
+# Wavvy Player 🎬
 
 A modern, feature-rich video player built with Next.js, TypeScript, and HLS.js. This player provides a professional streaming experience with comprehensive controls and customizable options.
 
 ## 📸 Demo
 
-![Wavvy Player Demo](public/demo.png)
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/1147c5a5-3867-4013-8d1e-53554c08fcce" />
 
 ## ✨ Features
 
